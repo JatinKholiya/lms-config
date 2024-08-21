@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+query:
+  message: "Welcome to SynergyBank accounts related QA APIs "
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@synergybank.com"
+  onCallSupport:
+    - 9120548870

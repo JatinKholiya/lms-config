@@ -1,0 +1,9 @@
+build:
+  version: "3.0"
+query:
+  message: "Welcome to LMS query related docker APIs "
+  contactDetails:
+    name: "Group 8"
+    email: "g8lms.com"
+  onCallSupport:
+    - 9596979036
